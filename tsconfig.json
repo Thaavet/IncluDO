@@ -1,0 +1,11 @@
+{
+	"resource": "/c:/Users/David Finocchio/Documents/Includo/tsconfig.json",
+	"owner": "typescript",
+	"severity": 8,
+	"message": "File 'c:/Users/David Finocchio/Documents/Includo/app.ts' is not under 'rootDir' 'c:/Users/David Finocchio/Documents/Includo/src'. 'rootDir' is expected to contain all source files.\n  The file is in the program because:\n    Matched by default include pattern '**/*'",
+	"source": "ts",
+	"startLineNumber": 1,
+	"startColumn": 1,
+	"endLineNumber": 1,
+	"endColumn": 2
+}
